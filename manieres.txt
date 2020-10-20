@@ -1,0 +1,2 @@
+allumer le four a 180 degré
+utiliser un robot pour mélanger oklm 
